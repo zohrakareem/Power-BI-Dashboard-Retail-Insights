@@ -37,10 +37,15 @@ This **Power BI dashboard** provides a complete view of Superstore’s sales per
 - Provides a **quick snapshot** of performance  
 - Enables **interactive analysis**  
 - Supports **data-driven decision making**
+---
+### **Power BI Dashboard**
+![Superstore](https://github.com/user-attachments/assets/b2e9b195-0cbd-44a0-9466-1f45d5be5261)
+
 ----
 ### **Internship Info**
 -This task is Part of the **Elevvo Internship** 
--submission requirement for DataAnlaytics.
+---
+
 
 
 
