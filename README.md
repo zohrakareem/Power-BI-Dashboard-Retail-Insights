@@ -33,14 +33,15 @@ This **Power BI dashboard** provides a complete view of Superstore’s sales per
 - Identifies **top-performing regions**  
 
 ---
-### **Internship Info**
--This task is Part of the **Elevvo Internship** 
--submission requirement for DataAnalaytics.
-
-
-
-
 ## 🎯 **Dashboard Purpose**
 - Provides a **quick snapshot** of performance  
 - Enables **interactive analysis**  
 - Supports **data-driven decision making**
+----
+### **Internship Info**
+-This task is Part of the **Elevvo Internship** 
+-submission requirement for DataAnlaytics.
+
+
+
+
